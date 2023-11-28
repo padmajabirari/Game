@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.btn{
+    margin-right: 30px;
+}
+.sub-line{
+    background-color: red;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+}
+.para{
+    color: gray;
+}
+.main-img{
+    margin-top: 80px;
+    margin-left: 80px;
+    width: 400px;
+
+}
